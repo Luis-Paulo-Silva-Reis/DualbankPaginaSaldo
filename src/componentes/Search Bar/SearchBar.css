@@ -1,0 +1,30 @@
+.SearchBar {
+  position: absolute;
+
+  height: 30px;
+  width: 160px;
+  left: 998px;
+  top: 20px;
+  border-radius: 0px;
+}
+
+.inputArea {
+  width: 160px;
+  height: 30px;
+  border: 0.5px solid #778899;
+  box-sizing: border-box;
+  border-radius: 5px;
+  top: 30px;
+}
+
+.inputAreaicon {
+  position: absolute;
+  height: 16px;
+  width: 16px;
+  left: 132px;
+  top: 7px;
+  border-radius: 0px;
+
+  color: #172765;
+  border: none;
+}

@@ -1,0 +1,45 @@
+.InputField1 {
+  position: absolute;
+  height: 48px;
+  width: 280px;
+  left: 66px;
+  top: 216px;
+  border-radius: 0px;
+  border-bottom: 1px solid #622ee5;
+}
+
+.Content-data-text {
+  position: absolute;
+  height: 36px;
+  width: 109px;
+  left: 16px;
+  top: 6px;
+  border-radius: 0px;
+}
+.Content-data-text p:first-child {
+  color: #622ee5;
+  font-size: 14px;
+}
+
+.Content-data-text input:last-child {
+  color: #172765;
+  border: none;
+  font-size: 14px;
+}
+
+.Carets {
+  position: absolute;
+  height: 24px;
+  width: 24px;
+  left: 244px;
+  top: 12px;
+  border-radius: 0px;
+  
+}
+
+.Carets button {
+  width: 24px;
+  height: 24px;
+  border: none;
+  background: none;
+}

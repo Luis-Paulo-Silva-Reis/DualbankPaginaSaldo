@@ -1,0 +1,64 @@
+.Frame-1874 {
+  position: absolute;
+  height: 36px;
+  width: 133px;
+  left: 474px;
+  top: 18px;
+  border-radius: 0px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.Group-1556 {
+  display: flex;
+  width: 16px;
+  height: 16px;
+
+  left: 0%;
+  right: 30.08%;
+  top: 47.22%;
+  bottom: 0%;
+}
+
+.Group-1556 p {
+  font-family: Lato;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #172765;
+  left: 400px;
+  
+}
+
+.Group-1556 button {
+  background: none;
+  border: none;
+  height: 16px;
+  width: 16px;
+  left: 39px;
+  top: 0px;
+  border-radius: 0px;
+  margin-left: 10px;
+}
+
+.Amount {
+  position: absolute;
+  left: 0%;
+  right: 30.08%;
+  top: 47.22%;
+  bottom: 0%;
+}
+
+.Amount p {
+  color: #69d531;
+  font-family: Lato;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+}

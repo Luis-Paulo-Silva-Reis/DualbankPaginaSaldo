@@ -1,0 +1,13 @@
+.rightMenu {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left: 1296px;
+  top: 10px;
+  border: 1px solid #172765;;
+  border-radius: 360px;
+}
+
+.avatar {
+  background-color: red;
+}

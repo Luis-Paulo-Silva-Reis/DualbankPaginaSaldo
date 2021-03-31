@@ -1,0 +1,303 @@
+.Group1566 {
+  position: absolute;
+  width: 127px;
+  height: 38px;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Inside Auto Layout */
+
+.Frame1884 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 0px;
+  top: 1px;
+  background: linear-gradient(89.96deg, #622ee5 0.06%, #172765 99.94%);
+  border-radius: 18px;
+  background-color: rebeccapurple;
+}
+
+.Frame1884 P {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 0px;
+  top: 0px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 25%;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+}
+.Frame1884 h3 {
+  /* Heading 3 */
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 25%;
+  margin-left: 40%;
+}
+
+.Group1558 {
+  position: absolute;
+  height: 38px;
+  width: 81px;
+  left: 46px;
+  top: 0px;
+  border-radius: 0px;
+  display: flex;
+  align-items: flex-start;
+  color: #172765;
+}
+
+.Group1558 button {
+  max-height: 16px;
+  max-width: 16px;
+  left: 163px;
+  border-radius: 0px;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  margin-left: 5%;
+ 
+}
+
+.Values {
+  position: absolute;
+  left: 1%;
+  right: 75.72%;
+  top: 55.26%;
+  bottom: 0%;
+  color: #69d531;
+  display: flex;
+  font-size: 14px;
+}
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+
+/* Positive */
+
+/* Frame 1557 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 79px;
+height: 20px;
+left: 46px;
+top: 0px;
+
+/* Marcar como não lida */
+
+position: static;
+width: 53px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #172765;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+/* eye */
+
+position: static;
+width: 16px;
+height: 16px;
+left: 63px;
+top: 2px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+
+/* Group 1540 */
+
+position: absolute;
+width: 12.88px;
+height: 10.74px;
+left: 1.67px;
+top: 2.67px;
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 20.2%;
+bottom: 23.25%;
+
+/* Dark blue - Primary Variant color */
+border: 1px solid #172765;
+
+/* Line 13 */
+
+position: absolute;
+left: 23.75%;
+right: -18.72%;
+top: 83.82%;
+bottom: 16.18%;
+
+border: 2px solid #ffffff;
+box-sizing: border-box;
+transform: rotate(-45deg);
+
+/* Line 12 */
+
+position: absolute;
+left: 21.33%;
+right: -9.72%;
+top: 82.7%;
+bottom: 17.3%;
+
+border: 1px solid #172765;
+transform: rotate(-45deg);
+
+.Group1567 {
+  position: absolute;
+  height: 38px;
+  width: 119px;
+  left: 291px;
+
+  border-radius: 1px;
+  background-color: red;
+}
+
+.Group1558-2 {
+  position: absolute;
+  height: 38px;
+  width: 73px;
+  left: 237px;
+  border-radius: 0px;
+  display: flex;
+}
+
+.Group1558-2 button {
+  font-size: 14px;
+  margin-left: 5%;
+  width: 100%;
+  height: 16px;
+}
+
+.Group1558-aluguel {
+  position: absolute;
+  height: 36px;
+  width: 36px;
+  left: 191px;
+  top: 1px;
+  display: flex;
+  background-color: red;
+  background: linear-gradient(135deg, #778899 0%, #172765 100%);
+  border-radius: 18px;
+}
+
+.Group1558-aluguel h3 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 36%;
+}
+/******************************************************/
+/******************************************************/
+/******************************************************/
+/******************************************************/
+/******************************************************/
+/******************************************************/
+/******************************************************/
+/******************************************************/
+/******************************************************/
+
+.Group1568 {
+  position: absolute;
+  height: 38px;
+  width: 149px;
+  left: 374px;
+  top: 0px;
+}
+
+.Group1558-3 {
+  position: absolute;
+  height: 38px;
+  width: 73px;
+  left: 40px;
+  border-radius: 0px;
+  display: flex;
+  color: #172765;
+}
+
+.Group1558-3 button {
+  font-size: 14px;
+  margin-left: 5%;
+  width: 100%;
+  height: 16px;
+  
+}
+
+.Group1558-alimentacao {
+  position: absolute;
+  height: 36px;
+  width: 36px;
+  top: 1px;
+  border-radius: 18px;
+  display: flex;
+  background: linear-gradient(135deg, #ff354e 0%, #172765 100%);
+  border-radius: 18px;
+}
+
+.Group1558-alimentacao h3 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 36%;
+}

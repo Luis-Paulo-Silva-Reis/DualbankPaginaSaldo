@@ -1,0 +1,76 @@
+.InputField2 {
+  position: absolute;
+  height: 48px;
+  width: 280px;
+  left: 66px;
+  top: 312px;
+  border-radius: 0px;
+  border-bottom:1px solid #778899;
+}
+
+.shield {
+  position: absolute;
+  height: 24px;
+  width: 24px;
+  left: 0px;
+  top: 6px;
+  border-radius: 0px;
+}
+
+.shield i {
+  height: 24px;
+  width: 24px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  color: gray;
+}
+
+.inputAndLabel {
+  position: absolute;
+  height: 36px;
+  width: 92px;
+  left: 34px;
+  top: 0px;
+  border-radius: 0px;
+}
+.inputAndLabel p {
+  font-family: Lato;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #778899;
+}
+
+.inputAndLabel p:last-child {
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #69d531;
+}
+
+.InputField2-eye {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  right: 12px;
+  top: 12px;
+  left: 250px;
+  color: #622ee5;
+}
+
+.InputField2-eye button {
+  font-size: 14px;
+  width: 16px;
+  height: 16px;
+  border: none;
+  background: none;
+  color: #622ee5;
+}

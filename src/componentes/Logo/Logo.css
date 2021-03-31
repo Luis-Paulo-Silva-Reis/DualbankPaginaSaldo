@@ -1,0 +1,33 @@
+.logo {
+  position: absolute;
+  height: 21px;
+  width: 130px;
+  left: 13px;
+  top: 25px;
+  border-radius: 0px;
+  font-weight: bold;
+  font-size: 16px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo img {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 13px;
+}
+
+.logo p {
+  font-weight: bold;
+  font-size: 19px;
+  margin-left: 35px;
+}
+
+.pricolor {
+  color: #622ee5;
+}
+
+.seccolor {
+  color: #172765;
+}

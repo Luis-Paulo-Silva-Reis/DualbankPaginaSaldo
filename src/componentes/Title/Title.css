@@ -1,0 +1,96 @@
+.Title {
+  position: absolute;
+  height: 48px;
+  width: 430px;
+  left: 59px;
+  top: 130px;
+  border-radius: 5px;
+}
+
+.Title h1 {
+  font-family: Raleway;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #172765;
+}
+
+.printer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 28px;
+  position: absolute;
+  width: 80px;
+  height: 40px;
+  left: 140px;
+  top: 0px;
+  border: 1px solid #622ee5;
+  box-sizing: border-box;
+  border-radius: 5px;
+  position: absolute;
+}
+
+.downloadFile {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 28px;
+  position: absolute;
+  width: 80px;
+  height: 48px;
+  left: 240px;
+  top: 0;
+  border: 1px solid #622ee5;
+  box-sizing: border-box;
+  border-radius: 5px;
+  position: absolute;
+}
+
+.share {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 28px;
+  position: absolute;
+  width: 80px;
+  height: 40px;
+  left: 340px;
+  top: 0px;
+  border: 1px solid #622ee5;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.share button {
+  width: 24px;
+  height: 24px;
+  color: #622ee5;
+
+  border: none;
+  background: none;
+}
+.downloadFile button {
+  width: 24px;
+  height: 24px;
+  color: #622ee5;
+
+  border: none;
+  background: none;
+}
+
+.printer button {
+  width: 24px;
+  height: 24px;
+  color: #622ee5;
+
+  border: none;
+  background: none;
+}
